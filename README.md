@@ -42,7 +42,7 @@ admin.site.register(Employee,EmployeeAdmin)
 ```
 ## OUTPUT
 
-![OUTPUT](./ORM#.png)
+![OUTPUT](./ORM.png)
 
 
 ## RESULT
