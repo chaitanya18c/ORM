@@ -41,11 +41,8 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ```
 ## OUTPUT
-
 ![OUTPUT](./ORM.png)
 
 
 ## RESULT
-
-
 Program executed succesfully
